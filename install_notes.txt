@@ -1,0 +1,10 @@
+Run from root of repository
+
+./install_db4.sh `pwd`
+
+
+
+#export BDB_PREFIX='/home/ct40/moirai/moirai/db4'
+
+#./configure BDB_LIBS="-L${BDB_PREFIX}/lib -ldb_cxx-4.8" BDB_CFLAGS="-I${BDB_PREFIX}/include" 
+
